@@ -2,36 +2,76 @@
     font-family: "airbnb cereal app";
     src: url(font/AirbnbCereal_W_Bd.otf);
 }
+
 body {
-    font-family: "airbnb cereal app" ;
+    font-family: "airbnb cereal app";
     color: #828297;
     font-size: 16px;
     font-weight: 400;
     line-height: 28px;
-    position: relative; 
+    position: relative;
 }
+
 /* ------------------general css ----------------------------- */
-h1{
+h1 {
     font-size: 50px;
     font-weight: 700;
     line-height: 65px;
-    }
-    h2{
-        font-size: 45px;
-        font-weight: 700;
-        line-height: 55px;
-    }
-    
-    h3{
-        font-size: 20px;
-        font-weight: 500;
-        line-height: 28px;
-    }
-    h4 {
-        font-size: 20px;
-        font-weight: 600;
-        line-height: 28px;
-    }
-    h1,h2,h3,h4{
-        color: #060640;
-    }
+}
+
+h2 {
+    font-size: 45px;
+    font-weight: 700;
+    line-height: 55px;
+}
+
+h3 {
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 28px;
+}
+
+h4 {
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 28px;
+}
+
+h1,
+h2,
+h3,
+h4 {
+    color: #060640;
+}
+
+
+
+.client-heading {
+    text-align: center;
+    padding-top: 0;
+}
+
+select {
+    width: 100%;
+}
+
+
+/* ....ali ... */
+.client {
+    position: relative;
+    background: #f3f3f3;
+    border-radius: 24px;
+    padding: 32px;
+    height: 100%;
+}
+
+.client .bottam-pd {
+    padding-bottom: 70px;
+}
+
+.client p {
+    font-size: 13px;
+    line-height: 1.6;
+    margin-bottom: 0px;
+}
+/* ....ali  end ... */
