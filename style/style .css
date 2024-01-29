@@ -71,6 +71,6 @@ h1{
         background-color: #060640;
         font-weight: 500;
     }
-    header{
-        background-image: url(c:\Users\tj213\Desktop\Bizpro\images\Header.jpg);
+    .bg{
+        background: #FFF;
     }
