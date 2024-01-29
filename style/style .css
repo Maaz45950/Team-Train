@@ -75,3 +75,138 @@ select {
     margin-bottom: 0px;
 }
 /* ....ali  end ... */
+    }
+    h2{
+        font-size: 45px;
+        font-weight: 700;
+        line-height: 55px;
+    }
+    
+    h3{
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 28px;
+    }
+    h4 {
+        font-size: 20px;
+        font-weight: 600;
+        line-height: 28px;
+    }
+    h1,h2,h3,h4{
+        color: #060640;
+
+    }
+    .navbar-toggler{
+        border: none;
+    }
+    .navbar-nav{
+        font-weight: 400;
+        font-size: 16px;
+        color: #717171;
+    }
+    .navbar{
+        padding-top: 0%;
+    }
+    
+    .nav-item {
+        padding-right: 10px;
+    }
+    .btn-1{
+        margin-right: 30px;
+        color: #000000;
+        border: none;
+        background: none;
+    }
+    .bg{
+            background: #FFF;
+            border-radius: 8px;
+            padding: 14px;
+    }
+    .btn-2 {
+        border: none;
+        font-size: 14px;
+        padding: 14px 34px;
+        color: #fff;
+        border-radius: 6px;
+        background-color: #060640;
+        font-weight: 500;
+    }
+    .bg{
+        background: #FFF;
+    }
+    footer{
+        background: #060640;
+        padding-top: 90px;
+        padding-bottom: 50px;
+        position: relative;
+      }
+      footer img{
+        width: 190px;
+      }
+      footer h3{
+        color: #FFFFFF;
+        font-size: 20px;
+        font-weight: 500;
+      }
+      footer h3::before{
+        position: absolute;
+        left: 40%;
+        width: 39px;
+        height: 3px;
+        top: 21%;
+      
+      }
+      footer p{
+        padding-top: 25px;
+        line-height: 30px;
+        font-size: 14px;
+        font-weight: 500;
+        color:#9090A7;
+      }
+      footer li{
+        color:#9090A7;
+        font-size: 13px;
+        font-weight: 300;
+        line-height: 32px;
+        text-align: left;
+        
+      }
+      footer .fa-twitter{
+        color: #00E5CC;
+      }
+      footer .social-icon{
+        padding-top: 18px;
+      }
+      footer .social-icon{
+        padding-top: 18px;
+      }
+      footer .social-icon a{
+        background:#9090A7;
+        width: 33px;
+        height: 33px;
+        border-radius: 50%;
+        padding: 8px;
+        color: #fff;
+        margin-right: 15px;
+      }
+      footer .social-icon i{
+        padding-right: 25px;
+        
+      
+      }
+      footer{
+        padding-top: 150px;
+      }
+      .twiter-bg .fa-twitter:hover{
+        color: #00e5cc;
+        border-color: #00e5cc;
+    }
+    .foooter-end{
+        background-color: #000020;
+    }
+    .foooter-end span{
+        color: #00e5cc;
+
+    }
+
+    
